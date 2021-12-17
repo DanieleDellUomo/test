@@ -54,5 +54,10 @@ input {
     background-color: grey;
     border-radius: 50%;
 }
+@media screen and (max-width: 600px) {
+    aside {
+        display: none;
+    }
+}
 
 
