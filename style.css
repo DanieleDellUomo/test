@@ -9,7 +9,7 @@ body {
     width: 100%;
 }
 header {
-    background-color: lightgrey;
+    background-color: #e5e5e5;
     margin: 0 0 0 0;
     height: 10%;
     width: 100%;
@@ -18,7 +18,7 @@ header {
     align-items: center;
 }
 aside {
-    background-color: grey;
+    background-color: #c4c4c4;
     height: 100%;
     width: 20%;
     margin: 0 0 0 0;
@@ -31,9 +31,12 @@ aside {
     background-color: honeydew;
 }
 input {
-    max-height: 25px;
-    width: 150px;
-    margin-left: 15px;
+    height: 30px;
+    width: 220px;
+    margin-left: 30px;
+    background-color: #c4c4c4;
+    border-radius: 5px;
+    border: none;
 }
 .first-img {
     display: flex;
